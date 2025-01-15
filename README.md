@@ -10,6 +10,8 @@ o1 Daily Brew is a daily reflection from o1 published to a Slack channel of your
 
 3. Create a [LangGraph Platform deployment](https://langchain-ai.github.io/langgraph/concepts/deployment_options/). 
 
+> Any [paid LangSmith plan](https://www.langchain.com/pricing-langsmith) has access to LangGraph Platform and deployments.
+
 4. Create a [cron job](https://langchain-ai.github.io/langgraph/cloud/how-tos/cron_jobs/) to run the deployment at your desired time. 
 
 ```python 

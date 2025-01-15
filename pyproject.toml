@@ -25,7 +25,7 @@ build-backend = "setuptools.build_meta"
 packages = ["daily_brew"]
 
 [tool.setuptools.package-dir]
-"chatbot" = "src/daily_brew"
+"daily_brew" = "src/daily_brew"
 
 [tool.setuptools.package-data]
 "*" = ["py.typed"]
